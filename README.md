@@ -22,8 +22,9 @@ https://vedsevanew.vercel.app/
 6. *Medicos directory*: User gets direct access to nearby medical shops and testing laboratories. 
 
 For testing purposes used the following credentials:
-Username: 112233445566
-Password: 1234567890
+- Username: 112233445566
+- Password: 1234567890
+<br>
 This project aims to bridge the healthcare gap in rural areas by making medical expertise more accessible through technology.
 
 ## Technologies Used
