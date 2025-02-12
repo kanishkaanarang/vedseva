@@ -4,7 +4,7 @@
 वैदSeva is a virtual healthcare solution designed to provide remote doctor consultations for rural areas, reducing the need for travel and improving healthcare accessibility. By leveraging technology, the platform ensures that patients receive timely medical attention regardless of their location. Additionally, we will be deploying this project on a kiosk screen-like feature near medicos in rural areas to enhance accessibility.
 
 ## Project Link
-#https://vedsevanew.vercel.app/
+https://vedsevanew.vercel.app/
 
 ## Features
 - *Remote Doctor Consultations*: Enables users to connect with certified doctors via video or chat.
